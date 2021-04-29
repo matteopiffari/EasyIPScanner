@@ -1,5 +1,31 @@
-How to use:
+## 📝 Table of Contents
 
-1. Open the file sln with VS and compile the program
-2. Open the program and insert in the three textbox the subnet (example in the first textbox insert "192" in the second textbox insert "168" in the third textbox insert "1" without "" )
-3. Click start and see the result in the console
+- [Setting up a local environment](#getting_started)
+- [Usage](#usage)
+- [Technology Stack](#tech_stack)
+- [Authors](#authors)
+
+## 🏁 Getting Started <a name = "getting_started"></a>
+
+To download the source code you just need to type this in a bash:
+
+```console
+Project-Piffa@main:~$ git clone https://github.com/Project-Piffa/EasyIPScanner
+```
+
+Now you have cloned the repository locally and you just need to start the .exe file that you can find in the /EasyIPScanner/bin/Debug/netcoreapp3.1/ folder
+
+## 🎈 Usage <a name="usage"></a>
+
+Type in the bash your network without the final block of numbers (example if you use 192.168.1.xxx type only 192.168.1).
+
+Wait almost one minute for the scan finished.
+
+## ⛏️ Built With <a name = "tech_stack"></a>
+
+- [VSCode](https://code.visualstudio.com/) - Text Editor
+- [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) - Main programming language
+
+## ✍️ Authors <a name = "authors"></a>
+
+- [@Project-Piffa](https://github.com/Project-Piffa) - Idea & Work
