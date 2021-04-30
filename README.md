@@ -15,7 +15,7 @@
 
 ## 📝 Table of Contents
 
-- [Setting up a local environment](#getting_started)
+- [Setting up a local enviroment](#getting_started)
 - [Usage](#usage)
 - [Technology Stack](#tech_stack)
 - [Authors](#authors)
