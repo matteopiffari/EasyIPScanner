@@ -1,3 +1,18 @@
+<p align="center"> 
+  <a href="" rel="noopener">
+ <img width=200px height=200px src="https://project-piffa.github.io/assets/img/EasyIPScanner.svg" alt="EasyIPScanner logo"></a>
+</p>
+
+<h3 align="center">EasyIPScanner</h3>
+
+<div align="center">
+
+[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+
+</div>
+
+---
+
 ## 📝 Table of Contents
 
 - [Setting up a local environment](#getting_started)
