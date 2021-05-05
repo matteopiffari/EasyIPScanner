@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\programmazione\\C#\\EasyIPScanner\\EasyIPScanner\\EasyIPScanner.csproj": {}
+    "D:\\programmazione\\github\\EasyIPScanner\\EasyIPScanner\\EasyIPScanner.csproj": {}
   },
   "projects": {
-    "D:\\programmazione\\C#\\EasyIPScanner\\EasyIPScanner\\EasyIPScanner.csproj": {
+    "D:\\programmazione\\github\\EasyIPScanner\\EasyIPScanner\\EasyIPScanner.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\programmazione\\C#\\EasyIPScanner\\EasyIPScanner\\EasyIPScanner.csproj",
+        "projectUniqueName": "D:\\programmazione\\github\\EasyIPScanner\\EasyIPScanner\\EasyIPScanner.csproj",
         "projectName": "EasyIPScanner",
-        "projectPath": "D:\\programmazione\\C#\\EasyIPScanner\\EasyIPScanner\\EasyIPScanner.csproj",
+        "projectPath": "D:\\programmazione\\github\\EasyIPScanner\\EasyIPScanner\\EasyIPScanner.csproj",
         "packagesPath": "C:\\Users\\Matteo Piffari\\.nuget\\packages\\",
-        "outputPath": "D:\\programmazione\\C#\\EasyIPScanner\\EasyIPScanner\\obj\\",
+        "outputPath": "D:\\programmazione\\github\\EasyIPScanner\\EasyIPScanner\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Matteo Piffari\\AppData\\Roaming\\NuGet\\NuGet.Config",

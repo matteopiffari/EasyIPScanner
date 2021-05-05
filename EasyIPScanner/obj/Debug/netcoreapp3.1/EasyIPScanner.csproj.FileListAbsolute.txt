@@ -11,3 +11,16 @@ D:\programmazione\C#\EasyIPScanner\EasyIPScanner\bin\Debug\netcoreapp3.1\EasyIPS
 D:\programmazione\C#\EasyIPScanner\EasyIPScanner\obj\Debug\netcoreapp3.1\EasyIPScanner.dll
 D:\programmazione\C#\EasyIPScanner\EasyIPScanner\obj\Debug\netcoreapp3.1\EasyIPScanner.pdb
 D:\programmazione\C#\EasyIPScanner\EasyIPScanner\obj\Debug\netcoreapp3.1\EasyIPScanner.genruntimeconfig.cache
+D:\programmazione\github\EasyIPScanner\EasyIPScanner\bin\Debug\netcoreapp3.1\EasyIPScanner.exe
+D:\programmazione\github\EasyIPScanner\EasyIPScanner\bin\Debug\netcoreapp3.1\EasyIPScanner.deps.json
+D:\programmazione\github\EasyIPScanner\EasyIPScanner\bin\Debug\netcoreapp3.1\EasyIPScanner.runtimeconfig.json
+D:\programmazione\github\EasyIPScanner\EasyIPScanner\bin\Debug\netcoreapp3.1\EasyIPScanner.runtimeconfig.dev.json
+D:\programmazione\github\EasyIPScanner\EasyIPScanner\bin\Debug\netcoreapp3.1\EasyIPScanner.dll
+D:\programmazione\github\EasyIPScanner\EasyIPScanner\bin\Debug\netcoreapp3.1\EasyIPScanner.pdb
+D:\programmazione\github\EasyIPScanner\EasyIPScanner\obj\Debug\netcoreapp3.1\EasyIPScanner.csprojAssemblyReference.cache
+D:\programmazione\github\EasyIPScanner\EasyIPScanner\obj\Debug\netcoreapp3.1\EasyIPScanner.AssemblyInfoInputs.cache
+D:\programmazione\github\EasyIPScanner\EasyIPScanner\obj\Debug\netcoreapp3.1\EasyIPScanner.AssemblyInfo.cs
+D:\programmazione\github\EasyIPScanner\EasyIPScanner\obj\Debug\netcoreapp3.1\EasyIPScanner.csproj.CoreCompileInputs.cache
+D:\programmazione\github\EasyIPScanner\EasyIPScanner\obj\Debug\netcoreapp3.1\EasyIPScanner.dll
+D:\programmazione\github\EasyIPScanner\EasyIPScanner\obj\Debug\netcoreapp3.1\EasyIPScanner.pdb
+D:\programmazione\github\EasyIPScanner\EasyIPScanner\obj\Debug\netcoreapp3.1\EasyIPScanner.genruntimeconfig.cache

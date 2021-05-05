@@ -38,7 +38,7 @@ namespace EasyIPScanner
             }
 
             Console.WriteLine("");
-            Console.WriteLine("Scan finished, press a key to close");
+            Console.WriteLine("Scan finished, press a key to close the program");
             Console.ReadKey();
 
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "12SDyKXDce/JGEfeECHcNIF8JmREt0bP+ibG0bMd0eHNtzgQ4KMlNYE7Jm16t+gGX+I/mod37Jt2L01hIKeajQ==",
+  "dgSpecHash": "0yM7hva+0IxV527P3SCUYz/LVqHGqZ/lFyO35pc3w9qd6+PR1rAlVs3cRQY56s/BFClR1hmQnV3IuARs5ZeH8Q==",
   "success": true,
-  "projectFilePath": "D:\\programmazione\\C#\\EasyIPScanner\\EasyIPScanner\\EasyIPScanner.csproj",
+  "projectFilePath": "D:\\programmazione\\github\\EasyIPScanner\\EasyIPScanner\\EasyIPScanner.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
