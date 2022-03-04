@@ -43,4 +43,4 @@ Wait almost one minute for the scan finished.
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@Project-Piffa](https://github.com/matteopiffari) - Idea & Work
+- [matteopiffari](https://github.com/matteopiffari) - Idea & Work
