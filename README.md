@@ -25,7 +25,7 @@
 To download the source code you just need to type this in a bash:
 
 ```console
-Project-Piffa@main:~$ git clone https://github.com/Project-Piffa/EasyIPScanner
+matteopiffari@main:~$ git clone https://github.com/matteopiffari/EasyIPScanner
 ```
 
 Now you have cloned the repository locally and you just need to start the .exe file that you can find in the /EasyIPScanner/bin/Debug/netcoreapp3.1/ folder
@@ -43,4 +43,4 @@ Wait almost one minute for the scan finished.
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@Project-Piffa](https://github.com/Project-Piffa) - Idea & Work
+- [@Project-Piffa](https://github.com/matteopiffari) - Idea & Work
